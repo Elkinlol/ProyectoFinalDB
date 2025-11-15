@@ -8,6 +8,8 @@ import java.util.List;
 @Getter
 @Setter
 
-public class payMentCredit {
+public class PayMentCredit {
+
+    private  String payMentId;
     private List<Installment> installments;
 }

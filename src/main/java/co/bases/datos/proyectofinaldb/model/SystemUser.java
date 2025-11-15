@@ -9,10 +9,12 @@ import lombok.*;
 @NoArgsConstructor
 public class SystemUser {
 
-    private String id;
-    private  String username;
+    private String cedula;
+    private  String userName;
     private String password;
     private String fullName;
     private Role role;
+
+
 
 }
