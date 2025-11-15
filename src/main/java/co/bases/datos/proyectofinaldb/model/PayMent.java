@@ -8,7 +8,7 @@ import lombok.*;
 @NoArgsConstructor
 @AllArgsConstructor
 
-public class payMent {
+public class PayMent {
 
     private  String payMentId;
     private  float totalPrice;

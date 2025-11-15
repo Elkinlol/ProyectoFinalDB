@@ -16,5 +16,5 @@ public class Sale {
     private LocalDate saleDate;
     private SystemUser user;
     private List<Product> products;
-    private Pago pago;
+    private PayMent pago;
 }
