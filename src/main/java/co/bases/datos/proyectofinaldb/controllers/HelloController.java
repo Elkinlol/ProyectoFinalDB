@@ -1,4 +1,4 @@
-package co.bases.datos.proyectofinaldb;
+package co.bases.datos.proyectofinaldb.controllers;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
